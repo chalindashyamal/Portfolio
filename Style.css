@@ -78,7 +78,7 @@ nav ul li a:hover::after{
 #about{
     padding: 80px;
     color: #00ffcc;
-    background-image: linear-gradient(#14141476, rgb(15, 15, 15)),url(./Images/10.jpg);
+    background-image: linear-gradient(#14141476, rgb(15, 15, 15)),url(./Images/11.jpg);
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -152,7 +152,7 @@ nav ul li a:hover::after{
 /*portfolio*/
 
 #portfolio{
-    background-image: linear-gradient(#14141476, rgb(15, 15, 15)),url(./Images/09.jpg);
+    background-image: linear-gradient(#14141476, rgb(15, 15, 15)),url(./Images/10.jpg);
     background-attachment: fixed;
     padding: 50px 0;
 }
