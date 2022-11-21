@@ -89,6 +89,9 @@ nav ul li a:hover::after{
     justify-content: space-between;
     flex-wrap: wrap;
 }
+.img::after{
+    transition: 1.1;
+}
 .about-col-1{
     flex-basis: 35%;
 }
